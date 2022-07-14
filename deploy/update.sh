@@ -10,3 +10,4 @@ $PROJECT_BASE_PATH/env/bin/python manage.py collectstatic --noinput
 supervisorctl restart profiles_api
 
 echo "DONE! :)"
+
